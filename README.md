@@ -1,1 +1,1 @@
-# 2048-DQN
+# 2048-QLearning
