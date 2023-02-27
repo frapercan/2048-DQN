@@ -36,7 +36,7 @@ Se penaliza:
 ## Graficos
 
 
-![The San Juan Mountains are beautiful!](resultados.png)
+![2048](https://github.com/frapercan/2048-QLearning/blob/main/resultados.png "2048")
 
 
 
